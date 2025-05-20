@@ -1,8 +1,5 @@
 # Rainbow Coffs Harbour
 
-Welcome to the official GitHub organization for Rainbow Coffs Harbour!
-
-We are a community-focused group dedicated to supporting and celebrating the LGBTQIA+ community and its allies in Coffs Harbour and the surrounding areas. Everyone is welcome here
 
 ## About Us
 
